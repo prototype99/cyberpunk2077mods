@@ -1,0 +1,3 @@
+[submodule "cyberenginetweaks"]
+	path = cyberenginetweaks
+	url = https://github.com/prototype99/cyberpunk2077cyberenginetweaks-bin.git
