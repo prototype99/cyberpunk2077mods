@@ -1,3 +1,6 @@
 [submodule "mods/cyberenginetweaks"]
 	path = mods/cyberenginetweaks
 	url = https://github.com/prototype99/cyberpunk2077cyberenginetweaks-bin.git
+[submodule "mods/replacers/Q005_Johnnys_Pants/cargo-pants"]
+	path = mods/replacers/Q005_Johnnys_Pants/cargo-pants
+	url = https://github.com/prototype99/cyberpunk2077cargo-pants.git
